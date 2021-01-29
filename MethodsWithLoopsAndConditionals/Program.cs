@@ -12,6 +12,7 @@ namespace MethodsWithLoopsAndConditionals
             Console.WriteLine("***");
             Equal(2, 2);
             //Number(5);
+           
         }
 
 
@@ -46,11 +47,11 @@ namespace MethodsWithLoopsAndConditionals
             }
         }
         // #4 Write a method to check whether a given number is even or odd.
-       // public static void Number(int)
-
-
+        // public static void Number(int)
+        
+        }
 
     }
-}
+
     
 
